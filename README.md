@@ -15,7 +15,9 @@ Daily_Python_Concept/
 |-- Basic_Tricks.ipynb
 |-- dictionary_Tricks.ipynb
 |-- functions_types.ipynb
-`-- new_file.ipynb
+|-- new_file.ipynb
+`-- 1.Two Sum.ipynb
+
 ```
 
 ## Notebook Index
