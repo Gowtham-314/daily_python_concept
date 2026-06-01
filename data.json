@@ -1,3 +1,16 @@
 {
-    
+    "products": [
+        {
+            "name" : "Matcha",
+            "prcie" : 12.99,
+            "in_stock" : true,
+            "sale_price":8.99
+        },
+        {
+            "name" : "Black Tea",
+            "prcie" : 9.99,
+            "in_stock" : false
+
+        }
+    ]
 }
