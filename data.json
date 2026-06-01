@@ -4,12 +4,14 @@
             "name" : "Matcha",
             "prcie" : 12.99,
             "in_stock" : true,
-            "sale_price":8.99
+            "sale_price":8.99,
+            "sizes" : ["small", "medium", "large"]
         },
         {
             "name" : "Black Tea",
             "prcie" : 9.99,
-            "in_stock" : false
+            "in_stock" : false,
+            "sizes" : ["small", "large"]
 
         }
     ]
