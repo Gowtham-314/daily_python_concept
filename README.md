@@ -16,6 +16,7 @@ Daily_Python_Concept/
 |-- dictionary_Tricks.ipynb
 |-- functions_types.ipynb
 |-- new_file.ipynb
+|-- data.json
 `-- 1.Two Sum.ipynb
 
 ```
@@ -27,11 +28,12 @@ Daily_Python_Concept/
 - `dictionary_Tricks.ipynb` - common dictionary operations and patterns
 - `functions_types.ipynb` - notes and examples related to function behavior and types
 - `new_file.ipynb` - additional practice notebook for new concepts
+- `data.json` - sample JSON data for practice
 
 ## Requirements
 
 - Python 3.x
-- Jupyter Notebook or VS Code with the Jupyter extension
+pro- Jupyter Notebook or VS Code with the Jupyter extension
 
 
 ## Purpose
