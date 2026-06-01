@@ -1,0 +1,29 @@
+{
+    "Books": [
+        {
+            "title": "Python Crash Course",
+            "author": "Eric Matthes",
+            "publication_year": 2015
+        },
+        {
+            "title": "Automate the Boring Stuff with Python",
+            "author": "Al Sweigart",
+            "publication_year": 2015
+        },
+        {
+            "title": "Fluent Python",
+            "author": "Luciano Ramalho",
+            "publication_year": 2015
+        },
+        {
+            "title": "Effective Python",
+            "author": "Brett Slatkin",
+            "publication_year": 2015
+        },
+        {
+            "title": "Python Tricks",
+            "author": "Dan Bader",
+            "publication_year": 2017
+        }
+    ]
+}
