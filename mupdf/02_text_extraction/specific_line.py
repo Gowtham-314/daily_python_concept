@@ -1,7 +1,7 @@
 from pathlib import Path
 import fitz
 
-pdf_path = Path(__file__).with_name("sample.pdf")
+pdf_path = Path("sample_files") / "sample.pdf"
 word = "characteristics of an operational amplifier"
 
 with fitz.open(pdf_path) as doc:

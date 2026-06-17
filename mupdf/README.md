@@ -24,8 +24,6 @@
 - [⚙️ Requirements](#-requirements)
 - [🚀 Quick Start](#-quick-start)
 - [📝 Notes](#-notes)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 - [👨‍💻 Author](#-author)
 
 ---

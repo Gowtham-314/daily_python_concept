@@ -3,8 +3,7 @@ import re
 from pathlib import Path
 import fitz
 
-pdf_path = Path(__file__).with_name("questions.pdf")
-
+pdf_path = Path("sample_files") / "questions.pdf"
 target_question = "What is Machine Learning?"
 
 doc = fitz.open(pdf_path)

@@ -1,7 +1,10 @@
 import fitz
 from pathlib import Path
 
-pdf_path = Path(__file__).with_name("sample.pdf")
+# pdf_path = Path(__file__).with_name("sample.pdf")
+# if File is in same folder.
+
+pdf_path = Path("sample_files") / "sample.pdf"
 
 text = ""
 with fitz.open(pdf_path) as doc:
@@ -22,9 +25,7 @@ for i in range(0, len(text), chunk_size):
 
 from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("all-MiniLM-L6-v2")
-embeddings = model.encode(
-    chunks
-)
+embeddings = model.encode(chunks)
 
 
 # Build a Vector Database using FAISS
