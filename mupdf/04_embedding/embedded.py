@@ -2,6 +2,7 @@ from pathlib import Path
 import fitz
 
 pdf_path = Path("sample_files") / "questions.pdf"
+file_path = Path(__file__).parent
 text = ""
 with fitz.open(pdf_path) as doc:
     for page in doc:
@@ -29,15 +30,12 @@ print(embeddings.shape)
 
 # Save embeddings
 import numpy as np
-np.save(
-    f"{Path(__file__).parent}/embeddings.npy",
-    embeddings
-)
+np.save(f"{file_path}/embeddings.npy",embeddings)
 
 
 # Load embeddings
 embeddings = np.load(
-    f"{Path(__file__).parent}/embeddings.npy"
+    f"{file_path}/embeddings.npy"
 )
 
 print("\n\n---- Loaded Embeddings ---")
