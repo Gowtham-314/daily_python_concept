@@ -1,0 +1,41 @@
+An Agent in AI is a system that can perceive, decide, and act to achieve a goal.
+
+Unlike a regular AI chatbot that mainly responds to questions, an AI agent can take actions on its own, use tools, remember information, and complete tasks.
+
+Simple Definition
+
+An agent is an entity that observes its environment and performs actions to achieve a specific objective.
+
+Examples
+        Human Agent
+        Input (Perceive): See traffic lights.
+        Decision: Stop or move.
+        Action: Drive the car.
+AI Agent
+Input (Perceive): Receive a user's request.
+Decision: Determine what steps are needed.
+Action: Search the web, analyze data, send emails, create reports, etc.
+Components of an Agent
+Perception
+Collects information from the environment.
+Reasoning
+Analyzes information and makes decisions.
+Planning
+Decides the sequence of actions.
+Action
+Executes tasks.
+Memory (Optional)
+Stores past information for future use.
+Types of AI Agents
+Type	Description
+Simple Reflex Agent	Acts only on current input.
+Model-Based Agent	Maintains an internal state.
+Goal-Based Agent	Acts to achieve a goal.
+Utility-Based Agent	Chooses the best action based on utility.
+Learning Agent	Improves through experience.
+Real-World Examples
+ChatGPT with tools and memory
+GitHub Copilot for coding assistance
+Google Assistant for voice commands
+Autonomous robots
+Self-driving vehicles such as the Tesla Model Y
