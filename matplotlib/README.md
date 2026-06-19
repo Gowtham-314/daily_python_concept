@@ -29,11 +29,15 @@ This folder contains concise Jupyter notebooks that introduce basic plotting and
 matplotlib/
 ├── learn_matplotlib.ipynb
 ├── matplotlib.ipynb
+├── matplotlib_pandas.ipynb
+├── model.ipynb
 └── README.md
 ```
 
 - `learn_matplotlib.ipynb`: Guided notebook with step-by-step plotting examples.
 - `matplotlib.ipynb`: Short exercises and variations to practice styling and layouts.
+- `matplotlib_pandas.ipynb`: Examples showing how to create visualizations using Matplotlib with Pandas DataFrames.
+- `model.ipynb`: Notebook for modeling and visualization tasks.
 
 ---
 
