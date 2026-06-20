@@ -1,8 +1,6 @@
 age,job,marital,education,balance,housing,loan
-58,management,married,tertiary,2143,yes,no
-44,technician,single,secondary,29,yes,no
-33,entrepreneur,married,secondary,2,yes,yes
-47,blue-collar,married,unknown,1506,yes,no
+58,management,married,NaN,2143,yes,no
+44,technician,single,NaN,1506,yes,no
 33,unknown,single,unknown,1,no,no
 35,management,married,tertiary,231,yes,no
 28,management,single,tertiary,447,yes,yes
@@ -11,7 +9,7 @@ age,job,marital,education,balance,housing,loan
 43,technician,single,secondary,593,yes,no
 41,admin.,divorced,secondary,270,yes,no
 29,admin.,single,secondary,390,yes,no
-53,technician,married,secondary,6,yes,no
+53,technician,married,NaN,6,yes,no
 58,technician,married,unknown,71,yes,no
 57,services,married,secondary,162,yes,no
 51,retired,married,primary,229,yes,no
@@ -51,6 +49,7 @@ age,job,marital,education,balance,housing,loan
 29,management,single,tertiary,0,yes,no
 54,blue-collar,married,secondary,1291,yes,no
 48,management,divorced,tertiary,-244,yes,no
+46,blue-collar,married,secondary,265,yes,no
 32,management,married,tertiary,0,yes,no
 42,admin.,single,secondary,-76,yes,no
 24,technician,single,secondary,-103,yes,yes
@@ -66,8 +65,9 @@ age,job,marital,education,balance,housing,loan
 49,blue-collar,married,unknown,154,yes,no
 51,management,married,tertiary,6530,yes,no
 60,retired,married,tertiary,100,no,no
+57,services,married,secondary,162,yes,no
 59,management,divorced,tertiary,59,yes,no
-55,technician,married,secondary,1205,yes,no
+55,technician,married,,1205,yes,no
 35,blue-collar,single,secondary,12223,yes,yes
 57,blue-collar,married,secondary,5935,yes,yes
 31,services,married,secondary,25,yes,yes
@@ -86,6 +86,7 @@ age,job,marital,education,balance,housing,loan
 46,self-employed,married,tertiary,137,yes,yes
 51,blue-collar,married,primary,173,yes,no
 56,admin.,married,secondary,45,no,no
+38,entrepreneur,single,tertiary,243,no,yes
 41,technician,married,secondary,1270,yes,no
 46,management,divorced,secondary,16,yes,yes
 57,retired,married,secondary,486,yes,no
@@ -123,8 +124,9 @@ age,job,marital,education,balance,housing,loan
 51,blue-collar,married,secondary,26,yes,no
 34,admin.,married,unknown,3,yes,no
 43,services,married,secondary,41,yes,yes
-52,technician,married,tertiary,7,no,yes
+52,technician,married,NaN,7,no,yes
 33,technician,single,secondary,105,yes,no
+60,blue-collar,married,unknown,54,yes,no
 29,admin.,single,secondary,818,yes,yes
 34,services,married,secondary,-16,yes,yes
 31,blue-collar,married,secondary,0,yes,no
@@ -144,7 +146,7 @@ age,job,marital,education,balance,housing,loan
 57,unemployed,married,tertiary,42,no,no
 37,blue-collar,married,secondary,37,yes,no
 59,blue-collar,married,secondary,57,yes,no
-33,services,married,secondary,22,yes,no
+33,services,married,NaN,22,yes,no
 56,blue-collar,divorced,primary,8,yes,no
 48,unemployed,married,secondary,293,yes,no
 43,services,married,primary,3,yes,no
