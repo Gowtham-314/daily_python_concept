@@ -1,0 +1,644 @@
+{
+  "students": [
+    {
+      "_id": "1",
+      "auid": "MEG26BEAI201",
+      "usn": "1MG26AI001",
+      "name": "AARAV SHETTY",
+      "email": "aaravs_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "1"
+    },
+    {
+      "_id": "2",
+      "auid": "MEG26BEAI202",
+      "usn": "1MG26AI002",
+      "name": "ANIKA RAO",
+      "email": "anikar_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "2"
+    },
+    {
+      "_id": "3",
+      "auid": "MEG26BEAI203",
+      "usn": "1MG26AI003",
+      "name": "BHARAT KUMAR",
+      "email": "bharatk_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "3"
+    },
+    {
+      "_id": "4",
+      "auid": "MEG26BEAI204",
+      "usn": "1MG26AI004",
+      "name": "CHARULATA M",
+      "email": "charulata_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "4"
+    },
+    {
+      "_id": "5",
+      "auid": "MEG26BEAI205",
+      "usn": "1MG26AI005",
+      "name": "DEVANSH P",
+      "email": "devanshp_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "5"
+    },
+    {
+      "_id": "6",
+      "auid": "MEG26BEAI206",
+      "usn": "1MG26AI006",
+      "name": "EESHA V",
+      "email": "eeshav_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "6"
+    },
+    {
+      "_id": "7",
+      "auid": "MEG26BEAI207",
+      "usn": "1MG26AI007",
+      "name": "FARHAN AHMED",
+      "email": "farhana_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "7"
+    },
+    {
+      "_id": "8",
+      "auid": "MEG26BEAI208",
+      "usn": "1MG26AI008",
+      "name": "GIRISH NAIK",
+      "email": "girishn_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "8"
+    },
+    {
+      "_id": "9",
+      "auid": "MEG26BEAI209",
+      "usn": "1MG26AI009",
+      "name": "HIMA BINDU",
+      "email": "himab_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "9"
+    },
+    {
+      "_id": "10",
+      "auid": "MEG26BEAI210",
+      "usn": "1MG26AI010",
+      "name": "ISHAAN R",
+      "email": "ishaanr_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "10"
+    },
+    {
+      "_id": "11",
+      "auid": "MEG26BEAI211",
+      "usn": "1MG26AI011",
+      "name": "JYOTI K",
+      "email": "jyotik_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "11"
+    },
+    {
+      "_id": "12",
+      "auid": "MEG26BEAI212",
+      "usn": "1MG26AI012",
+      "name": "KIRAN RAJ",
+      "email": "kiranraj_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "12"
+    },
+    {
+      "_id": "13",
+      "auid": "MEG26BEAI213",
+      "usn": "1MG26AI013",
+      "name": "LAKSHMI P",
+      "email": "lakshmip_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "13"
+    },
+    {
+      "_id": "14",
+      "auid": "MEG26BEAI214",
+      "usn": "1MG26AI014",
+      "name": "MAHESH S",
+      "email": "maheshs_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "14"
+    },
+    {
+      "_id": "15",
+      "auid": "MEG26BEAI215",
+      "usn": "1MG26AI015",
+      "name": "NANDINI H",
+      "email": "nandinih_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "15"
+    },
+    {
+      "_id": "16",
+      "auid": "MEG26BEAI216",
+      "usn": "1MG26AI016",
+      "name": "OMKAR J",
+      "email": "omkarj_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "16"
+    },
+    {
+      "_id": "17",
+      "auid": "MEG26BEAI217",
+      "usn": "1MG26AI017",
+      "name": "PALLAVI SHARMA",
+      "email": "pallavisharma_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "17"
+    },
+    {
+      "_id": "18",
+      "auid": "MEG26BEAI218",
+      "usn": "1MG26AI018",
+      "name": "QURESHI ZAID",
+      "email": "qureshiz_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "18"
+    },
+    {
+      "_id": "19",
+      "auid": "MEG26BEAI219",
+      "usn": "1MG26AI019",
+      "name": "RITHIKA S",
+      "email": "rithikas_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "19"
+    },
+    {
+      "_id": "20",
+      "auid": "MEG26BEAI220",
+      "usn": "1MG26AI020",
+      "name": "SACHIN D",
+      "email": "sachind_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "20"
+    },
+    {
+      "_id": "21",
+      "auid": "MEG26BEAI221",
+      "usn": "1MG26AI021",
+      "name": "TANVI JAIN",
+      "email": "tanvijain_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "21"
+    },
+    {
+      "_id": "22",
+      "auid": "MEG26BEAI222",
+      "usn": "1MG26AI022",
+      "name": "UDMG KUMAR",
+      "email": "udMGkumar_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "22"
+    },
+    {
+      "_id": "23",
+      "auid": "MEG26BEAI223",
+      "usn": "1MG26AI023",
+      "name": "VAISHNAVI R",
+      "email": "vaishnavir_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "23"
+    },
+    {
+      "_id": "24",
+      "auid": "MEG26BEAI224",
+      "usn": "1MG26AI024",
+      "name": "VARUN B",
+      "email": "varunb_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "24"
+    },
+    {
+      "_id": "25",
+      "auid": "MEG26BEAI225",
+      "usn": "1MG26AI025",
+      "name": "WASIM KHAN",
+      "email": "wasimkhan_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "25"
+    },
+    {
+      "_id": "26",
+      "auid": "MEG26BEAI226",
+      "usn": "1MG26AI026",
+      "name": "YASHIKA M",
+      "email": "yashikam_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "26"
+    },
+    {
+      "_id": "27",
+      "auid": "MEG26BEAI227",
+      "usn": "1MG26AI027",
+      "name": "ZUBAIR A",
+      "email": "zubaira_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "27"
+    },
+    {
+      "_id": "28",
+      "auid": "MEG26BEAI228",
+      "usn": "1MG26AI028",
+      "name": "ADITI SHAH",
+      "email": "aditishah_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "28"
+    },
+    {
+      "_id": "29",
+      "auid": "MEG26BEAI229",
+      "usn": "1MG26AI029",
+      "name": "BHAVESH M",
+      "email": "bhaveshm_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "29"
+    },
+    {
+      "_id": "30",
+      "auid": "MEG26BEAI230",
+      "usn": "1MG26AI030",
+      "name": "CHMEGRA P",
+      "email": "chMEGrap_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "30"
+    },
+    {
+      "_id": "31",
+      "auid": "MEG26BEAI231",
+      "usn": "1MG26AI031",
+      "name": "DARSHAN S",
+      "email": "darshans_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "31"
+    },
+    {
+      "_id": "32",
+      "auid": "MEG26BEAI232",
+      "usn": "1MG26AI032",
+      "name": "ELINA FERNANDES",
+      "email": "elinaf_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "32"
+    },
+    {
+      "_id": "33",
+      "auid": "MEG26BEAI233",
+      "usn": "1MG26AI033",
+      "name": "FAIZAN K",
+      "email": "faizank_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "33"
+    },
+    {
+      "_id": "34",
+      "auid": "MEG26BEAI234",
+      "usn": "1MG26AI034",
+      "name": "GAURI DESAI",
+      "email": "gauridesai_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "34"
+    },
+    {
+      "_id": "35",
+      "auid": "MEG26BEAI235",
+      "usn": "1MG26AI035",
+      "name": "HARISH T",
+      "email": "harisht_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "35"
+    },
+    {
+      "_id": "36",
+      "auid": "MEG26BEAI236",
+      "usn": "1MG26AI036",
+      "name": "INAMGA KHAN",
+      "email": "inaMGakhan_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "36"
+    },
+    {
+      "_id": "37",
+      "auid": "MEG26BEAI237",
+      "usn": "1MG26AI037",
+      "name": "JAGADEESH R",
+      "email": "jagadeeshr_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "37"
+    },
+    {
+      "_id": "38",
+      "auid": "MEG26BEAI238",
+      "usn": "1MG26AI038",
+      "name": "KAVYA S",
+      "email": "kavyas_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "38"
+    },
+    {
+      "_id": "39",
+      "auid": "MEG26BEAI239",
+      "usn": "1MG26AI039",
+      "name": "LOKESH M",
+      "email": "lokeshm_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "39"
+    },
+    {
+      "_id": "40",
+      "auid": "MEG26BEAI240",
+      "usn": "1MG26AI040",
+      "name": "MANSI R",
+      "email": "mansir_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "40"
+    },
+    {
+      "_id": "41",
+      "auid": "MEG26BEAI241",
+      "usn": "1MG26AI041",
+      "name": "NIKHIL SINGH",
+      "email": "nikhilsingh_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "41"
+    },
+    {
+      "_id": "42",
+      "auid": "MEG26BEAI242",
+      "usn": "1MG26AI042",
+      "name": "OJASWINI H",
+      "email": "ojaswinih_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "42"
+    },
+    {
+      "_id": "43",
+      "auid": "MEG26BEAI243",
+      "usn": "1MG26AI043",
+      "name": "PAVAN KUMAR",
+      "email": "pavankumar_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "43"
+    },
+    {
+      "_id": "44",
+      "auid": "MEG26BEAI244",
+      "usn": "1MG26AI044",
+      "name": "QUADRIYA S",
+      "email": "quadriyas_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "44"
+    },
+    {
+      "_id": "45",
+      "auid": "MEG26BEAI245",
+      "usn": "1MG26AI045",
+      "name": "RAHUL V",
+      "email": "rahulv_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "45"
+    },
+    {
+      "_id": "46",
+      "auid": "MEG26BEAI246",
+      "usn": "1MG26AI046",
+      "name": "SANA MARIAM",
+      "email": "sanamariam_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "46"
+    },
+    {
+      "_id": "47",
+      "auid": "MEG26BEAI247",
+      "usn": "1MG26AI047",
+      "name": "TEJAS P",
+      "email": "tejasp_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "47"
+    },
+    {
+      "_id": "48",
+      "auid": "MEG26BEAI248",
+      "usn": "1MG26AI048",
+      "name": "UMA NAIK",
+      "email": "umanaik_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "48"
+    },
+    {
+      "_id": "49",
+      "auid": "MEG26BEAI249",
+      "usn": "1MG26AI049",
+      "name": "VIKRAM J",
+      "email": "vikramj_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "49"
+    },
+    {
+      "_id": "50",
+      "auid": "MEG26BEAI250",
+      "usn": "1MG26AI050",
+      "name": "WENDY FERNANDES",
+      "email": "wendyf_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "50"
+    },
+    {
+      "_id": "51",
+      "auid": "MEG26BEAI251",
+      "usn": "1MG26AI051",
+      "name": "XAVIER D",
+      "email": "xavierd_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "51"
+    },
+    {
+      "_id": "52",
+      "auid": "MEG26BEAI252",
+      "usn": "1MG26AI052",
+      "name": "YOGITA K",
+      "email": "yogitak_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "52"
+    },
+    {
+      "_id": "53",
+      "auid": "MEG26BEAI253",
+      "usn": "1MG26AI053",
+      "name": "ZEENATH A",
+      "email": "zeenatha_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "53"
+    },
+    {
+      "_id": "54",
+      "auid": "MEG26BEAI254",
+      "usn": "1MG26AI054",
+      "name": "ABHINAV S",
+      "email": "abhinavs_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "54"
+    },
+    {
+      "_id": "55",
+      "auid": "MEG26BEAI255",
+      "usn": "1MG26AI055",
+      "name": "BHARGAVI P",
+      "email": "bhargavip_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "55"
+    },
+    {
+      "_id": "56",
+      "auid": "MEG26BEAI256",
+      "usn": "1MG26AI056",
+      "name": "CHETHAN K",
+      "email": "chethank_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "56"
+    },
+    {
+      "_id": "57",
+      "auid": "MEG26BEAI257",
+      "usn": "1MG26AI057",
+      "name": "DIYA R",
+      "email": "diyar_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "57"
+    },
+    {
+      "_id": "58",
+      "auid": "MEG26BEAI258",
+      "usn": "1MG26AI058",
+      "name": "EMILIA JOSEPH",
+      "email": "emiliajoseph_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "58"
+    },
+    {
+      "_id": "59",
+      "auid": "MEG26BEAI259",
+      "usn": "1MG26AI059",
+      "name": "FEROZ PATHAN",
+      "email": "ferozpathan_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Krishnan",
+      "roll": "59"
+    },
+    {
+      "_id": "60",
+      "auid": "MEG26BEAI260",
+      "usn": "1MG26AI060",
+      "name": "GMGATHRI S",
+      "email": "gMGathris_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Meera N",
+      "roll": "60"
+    },
+    {
+      "_id": "61",
+      "auid": "MEG26BEAI261",
+      "usn": "1MG26AI061",
+      "name": "HARSHITHA K",
+      "email": "harshithak_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "61"
+    },
+    {
+      "_id": "62",
+      "auid": "MEG26BEAI262",
+      "usn": "1MG26AI062",
+      "name": "IYER RAGHAV",
+      "email": "iyerraghav_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "62"
+    },
+    {
+      "_id": "63",
+      "auid": "MEG26BEAI263",
+      "usn": "1MG26AI063",
+      "name": "JANANI M",
+      "email": "jananim_26beai@megan.ac.in",
+      "gender": "Female",
+      "mentor": "Dr. Krishnan",
+      "roll": "63"
+    },
+    {
+      "_id": "64",
+      "auid": "MEG26BEAI264",
+      "usn": "1MG26AI064",
+      "name": "KARAN SINGH",
+      "email": "karansingh_26beai@megan.ac.in",
+      "gender": "Male",
+      "mentor": "Dr. Meera N",
+      "roll": "64"
+    }
+  ]
+}
