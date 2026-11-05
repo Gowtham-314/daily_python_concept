@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="937ca70a-05b0-4021-a294-64dab0051102" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/opencv-learn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandTrackingMin.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandTrackingMin.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000029" />
+      <entry key="MS500" value="1.0014202048049452" />
+      <entry key="S2" value="1.3031477841495642" />
+      <entry key="S5" value="1.933764510420902" />
+      <entry key="S10" value="2.3649609619428933" />
+      <entry key="S30" value="2.7670425619753143" />
+      <entry key="S60" value="3.2274661643686056" />
+      <entry key="M2" value="6.143128960886833" />
+      <entry key="M5" value="17.207699422198928" />
+      <entry key="M10" value="27.245821986570267" />
+      <entry key="M15" value="32.266054758232926" />
+      <entry key="M30" value="39.610710227426196" />
+      <entry key="H1" value="46.00166269563469" />
+      <entry key="H2" value="50.93205552131487" />
+      <entry key="H4" value="54.13021482863455" />
+      <entry key="D1" value="57.30105290170518" />
+      <entry key="W1" value="57.89872026518582" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.4977685256613484E-239" />
+      <entry key="S2" value="1.9672573428540102E-60" />
+      <entry key="S5" value="1.3108242586643285E-24" />
+      <entry key="S10" value="1.1449234146266358E-12" />
+      <entry key="S30" value="1.090503569889805E-4" />
+      <entry key="S60" value="0.013856620623633313" />
+      <entry key="M2" value="0.2053310209389113" />
+      <entry key="M5" value="1.1820387897808595" />
+      <entry key="M10" value="2.1640982242206617" />
+      <entry key="M15" value="2.653155922441309" />
+      <entry key="M30" value="3.256080494771906" />
+      <entry key="H1" value="3.6084807575598896" />
+      <entry key="H2" value="3.799085025764536" />
+      <entry key="H4" value="3.898218891181644" />
+      <entry key="D1" value="3.9828496156917734" />
+      <entry key="W1" value="3.997545328742829" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.2185859944462975E-5" />
+      <entry key="MS500" value="0.11755225238979312" />
+      <entry key="S2" value="0.7993684380951489" />
+      <entry key="S5" value="1.6246808821375596" />
+      <entry key="S10" value="2.1769354713150393" />
+      <entry key="S30" value="2.6943205865282605" />
+      <entry key="S60" value="3.199623276904724" />
+      <entry key="M2" value="6.313747988452523" />
+      <entry key="M5" value="18.357955503950063" />
+      <entry key="M10" value="29.386603356399846" />
+      <entry key="M15" value="34.901303742636195" />
+      <entry key="M30" value="42.85624136642933" />
+      <entry key="H1" value="49.60425312703799" />
+      <entry key="H2" value="54.72797513273901" />
+      <entry key="H4" value="58.02678211494878" />
+      <entry key="D1" value="61.28361609845918" />
+      <entry key="W1" value="61.89622437971739" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LbcFDLEdcaRkju3L3DoprKOvAZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.HandTrackingMin.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gowda/OneDrive/Desktop/Python/Daily_Python_Concept/opencv-learn&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="HandTrackingMin" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="opencv-learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandTrackingMin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="937ca70a-05b0-4021-a294-64dab0051102" name="Changes" comment="" />
+      <created>1793726102245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793726102245</updated>
+      <workItem from="1793726685634" duration="127000" />
+      <workItem from="1793811395907" duration="1259000" />
+      <workItem from="1793817389178" duration="1133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/opencv_learn$HandTrackingMin.coverage" NAME="HandTrackingMin Coverage Results" MODIFIED="1793817731786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
